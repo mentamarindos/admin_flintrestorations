@@ -1,0 +1,49 @@
+.card-header-height {
+    min-height: 50px !important;
+}
+.float-right {
+    float: right !important;
+}
+.mr-3 {
+    margin-right: 0.75rem !important;
+}
+.fs-12 {
+    font-size: 12px !important;
+}
+.fs-14 {
+    font-size: 14px !important;
+}
+.fs-16 {
+    font-size: 16px !important;
+}
+.fs-18 {
+    font-size: 18px !important;
+}
+.fs-20 {
+    font-size: 20px !important;
+}
+.cursor-pointer {
+    cursor: pointer !important;
+}
+
+/* service task image and videos start */
+.service-task img {
+    object-fit: contain !important;
+}
+.service-task img,
+.service-task video {
+    width: 150px !important;
+    height: 150px !important;
+}
+
+/* service task image and videos end */
+
+/* task file delete icon */
+.delete-task {
+    opacity: 90% !important;
+    right: 15px !important;
+    transition: opacity 0.2s ease-out !important;
+}
+.delete-task:hover {
+    opacity: 100% !important;
+}
